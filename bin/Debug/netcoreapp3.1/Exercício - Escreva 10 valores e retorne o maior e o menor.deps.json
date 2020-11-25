@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercício - Escreva 10 valores e retorne o maior e o menor/1.0.0": {
+        "runtime": {
+          "Exercício - Escreva 10 valores e retorne o maior e o menor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício - Escreva 10 valores e retorne o maior e o menor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
